@@ -1,0 +1,14 @@
+{
+    "name": "Ldapper",
+    "version": "0.0.1",
+    "description": "LDAP login screen for BlueMix",
+    "dependencies": {
+	"ldapjs": "0.7.1",
+	"express": "3.4.7",
+	"mustache": "0.8.1"
+    },
+    "engines": {
+	"node": "0.10.25"
+    },
+    "repository": {}
+}
