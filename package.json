@@ -5,7 +5,11 @@
     "dependencies": {
 	"ldapjs": "0.7.1",
 	"express": "3.4.7",
-	"mustache": "0.8.1"
+	"mustache": "0.8.1",
+	"mongodb" : "1.4.4",
+	"async": "0.9.0",
+	"connect-mongo": "0.4.1"
+
     },
     "engines": {
 	"node": "0.10.25"
